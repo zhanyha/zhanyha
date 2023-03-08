@@ -54,9 +54,9 @@
   
       
 <h2>🤝 Let's stay connected!</h2>
-<a href="https://wx.mail.qq.com/" target="_blank"><img src="https://rescdn.qqmail.com/zh_CN/htmledition/images/logo/logo_0_0@2X1f1937.png" /></a> &nbsp;  <a href="https://twitter.com/TheAdityaGarde" target="_blank"><img src="https://i.imgur.com/G7yTDHP.png" width=40px height=40px title="source: imgur.com"/></a>  &nbsp;  <a href="https://leetcode.com/AdityaGarde/" target="_blank"><img src="https://pbs.twimg.com/profile_images/910592237695676416/7xInX10u_400x400.jpg" width=40px height=40px title=""/></a>
-    <br/>
-    <br/>
+<a href="mailto:zhanyuhaocs@qq.com" target="_blank"><img src="https://rescdn.qqmail.com/zh_CN/htmledition/images/logo/logo_0_0@2X1f1937.png" style="margin: 0 auto;" width=215px height=60px /></a>   &nbsp;  <a href="https://blog.csdn.net/idefined?type=blog" target="_blank"><img src="https://img-home.csdnimg.cn/images/20201124032511.png" width=80px height=44px style="margin: 0 auto;" /></a>   &nbsp; &nbsp;&nbsp;   <a href="https://leetcode.cn/u/bestwell/" target="_blank"><img src="https://static.leetcode.cn/cn-mono-assets/production/assets/logo-dark-cn.4c5e285b.svg" width=88px height=33px style="margin: 0 auto;"/></a>
+<br/>
+<br/>
 
  
 ## 📊 My Github Stats
