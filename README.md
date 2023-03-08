@@ -1,11 +1,7 @@
-<h2> < Hello World, I'm <a href="https://www.linkedin.com/in/adityagarde/" target="_blank"> Aditya Garde</a> /> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" height="30">  </h2>
-    <img align='right' src='https://raw.githubusercontent.com/adityagarde/adityagarde/main/resources/git.gif' width="225" height="225">
-    
-- I am working as a Software Engineer at <a href="https://www.logicmonitor.com/" target="_blank"> LogicMonitor</a> which is a SaaS based IT Infrastructure Monitoring product. Before that I was working with <a href="https://www.oracle.com/in/industries/financial-services/" target="_blank"> Oracle</a> on their flagship Core Banking and Digital Banking product - Flexcube(UBS).
-- Currently I am learning <a href="https://github.com/quarkusio" target="_blank"> Quarkus</a> which is a Cloud-native Java framework and is an answer to people who say that Java is slow or dying😉
-- I am interested in Backend Design and Development, Microservice architecture, RESTful APIs and Cloud Native technologies.
-- Otherwise, I love travelling and cycling. And I am a History, Philosophy and Literature buff.
-- 📩 Feel free to reach me at aditya.garde96@gmail.com.
+<h2> < Hello World, I'm <a href="zhanyuhaocs@qq.com" target="_blank"> Zhanyuhao</a> /></h2>
+
+- I am a graduate student in the second year of Nanchang University. At present, I am practicing in the Silicon Group, and my research direction is natural language processing. At the same time, I am very interested in software development, especially Java programming language, and I am currently in a job hunting state. 
+- 📩 Feel free to reach me at zhanyuhaocs@qq.com.
 
 <h2>🛠️ Technologies & Tools</h2>
 <h3>常用技术栈</h3>
