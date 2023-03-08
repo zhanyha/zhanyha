@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 
 
 ![](https://activity-graph.herokuapp.com/graph?username=zhanyha&theme=redical&bg_color=ffffff00&color=38BDAD&title_color=72A6FD)
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/zhanyho/zhanyho/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/zhanyho/zhanyho/output/github-contribution-grid-snake.svg#gh-light-mode-only)
