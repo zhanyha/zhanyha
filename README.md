@@ -54,7 +54,7 @@
   
       
 <h2>🤝 Let's stay connected!</h2>
-<a href="https://wx.mail.qq.com/" target="_blank"><img src="https://rescdn.qqmail.com/zh_CN/htmledition/images/logo/logo_0_0@2X1f1937.png" width=40px height=40px/></a> &nbsp;  <a href="https://twitter.com/TheAdityaGarde" target="_blank"><img src="https://i.imgur.com/G7yTDHP.png" width=40px height=40px title="source: imgur.com"/></a>  &nbsp;  <a href="https://leetcode.com/AdityaGarde/" target="_blank"><img src="https://pbs.twimg.com/profile_images/910592237695676416/7xInX10u_400x400.jpg" width=40px height=40px title=""/></a>
+<a href="https://wx.mail.qq.com/" target="_blank"><img src="https://rescdn.qqmail.com/zh_CN/htmledition/images/logo/logo_0_0@2X1f1937.png" /></a> &nbsp;  <a href="https://twitter.com/TheAdityaGarde" target="_blank"><img src="https://i.imgur.com/G7yTDHP.png" width=40px height=40px title="source: imgur.com"/></a>  &nbsp;  <a href="https://leetcode.com/AdityaGarde/" target="_blank"><img src="https://pbs.twimg.com/profile_images/910592237695676416/7xInX10u_400x400.jpg" width=40px height=40px title=""/></a>
     <br/>
     <br/>
 
