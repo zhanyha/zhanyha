@@ -1,6 +1,6 @@
 <h2> < Hello World, I'm <a href="zhanyuhaocs@qq.com" target="_blank"> Zhanyuhao</a> /></h2>
 
-- I am a graduate student in the second year of Nanchang University. At present, I am practicing in the Silicon Group, and my research direction is natural language processing. At the same time, I am very interested in software development, especially Java programming language, and I am currently in a job hunting state. 
+- I am a graduate student in the second year of Nanchang University. At present, I am practicing in the Thinvent Group, and my research direction is natural language processing. At the same time, I am very interested in software development, especially Java programming language, and I am currently in a job hunting state. 
 - 📩 Feel free to reach me at zhanyuhaocs@qq.com.
 
 <h2>🛠️ Technologies & Tools</h2>
@@ -11,16 +11,16 @@
 <img src="https://img.shields.io/badge/SpringBoot-%2314354c.svg?logo=SpringBoot&logoColor=white&style=flat" alt="SpringBoot" /> 
 <img src="https://img.shields.io/badge/Redis-%23a51f17.svg?logo=redis&logoColor=white&style=flat" alt="Redis" />
 <img src="https://img.shields.io/badge/RocketMQ-%23D77310.svg?logo=Apache RocketMQ&logoColor=white&style=flat" alt="RocketMQ" /> 
+ <img src="https://img.shields.io/badge/MySql-%234479A1.svg?logo=MySql&logoColor=white&style=flat" alt="MySql" />
+<img src="https://img.shields.io/badge/Oracle-%23F80000.svg?logo=Oracle&logoColor=white&style=flat" alt="Oracle" />
+<img src="https://img.shields.io/badge/MyBatis-%23B12B28.svg?logo=MyBatis&logoColor=white&style=flat" alt="MyBatis" />
+<img src="https://img.shields.io/badge/MyBatis-Plus-%2300A1E0.svg?logo=MyBatis-Plus&logoColor=white&style=flat" alt="MyBatis-Plus" />
 <img src="https://img.shields.io/badge/SpringCloud-%236DB33F.svg?logo=SonarCloud&logoColor=white&style=flat" alt="SpringCloud" />
 <img src="https://img.shields.io/badge/Nacos-%23007CFF.svg?logo=Nacos&logoColor=white&style=flat" alt="Nacos" />
 <img src="https://img.shields.io/badge/Feign-%231071D3.svg?logo=Feign&logoColor=white&style=flat" alt="Feign" />
 <img src="https://img.shields.io/badge/GateWay-%234BB749.svg?logo=GateWay&logoColor=white&style=flat" alt="GateWay" />
 <img src="https://img.shields.io/badge/Sentinel-%2300CEC8.svg?logo=Sentinel&logoColor=white&style=flat" alt="Sentinel" />
 <img src="https://img.shields.io/badge/Seata-%2300AFF0.svg?logo=Seata&logoColor=white&style=flat" alt="Seata" />
-<img src="https://img.shields.io/badge/MySql-%234479A1.svg?logo=MySql&logoColor=white&style=flat" alt="MySql" />
-<img src="https://img.shields.io/badge/Oracle-%23F80000.svg?logo=Oracle&logoColor=white&style=flat" alt="Oracle" />
-<img src="https://img.shields.io/badge/MyBatis-%23B12B28.svg?logo=MyBatis&logoColor=white&style=flat" alt="MyBatis" />
-<img src="https://img.shields.io/badge/MyBatis-Plus-%2300A1E0.svg?logo=MyBatis-Plus&logoColor=white&style=flat" alt="MyBatis-Plus" />
 <img src="https://img.shields.io/badge/Linux-%23fcc624.svg?logo=linux&logoColor=white&style=flat" alt="Linux" />
 <img src="https://img.shields.io/badge/docker-%2314354c.svg?logo=docker&logoColor=white&style=flat" alt="docker" />
 <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white" alt="nginx" />
@@ -29,15 +29,15 @@
 <img src="https://img.shields.io/badge/SpringMVC-%236DB33F.svg?logo=SpringMVC&logoColor=white&style=flat" alt="SpringMVC" />
   
 <h3>探索</h3>
-
-<img src="https://img.shields.io/badge/dubbo-%2314354c.svg?logo=dubbo&logoColor=white&style=flat" alt="dubbo"/> <img src="https://img.shields.io/badge/Zookeeper-%2314354c.svg?logo=Zookeeper&logoColor=white&style=flat" alt="Zookeeper" />
+ 
+<img src="https://img.shields.io/badge/Python-%233776AB.svg?logo=Python&logoColor=white&style=flat" alt="Python" /><img src="https://img.shields.io/badge/DL-%2314354c.svg?logo=DL&logoColor=white&style=flat" alt="Deep-Learning" />
+<img src="https://img.shields.io/badge/NLP-%23CB3837.svg?logo=NLP&logoColor=white&style=flat" alt="NLP" />
+<img src="https://img.shields.io/badge/dubbo-%2314354c.svg?logo=dubbo&logoColor=white&style=flat" alt="dubbo"/>
+ <img src="https://img.shields.io/badge/Zookeeper-%2314354c.svg?logo=Zookeeper&logoColor=white&style=flat" alt="Zookeeper" />
 <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JS" />
 <img src="https://img.shields.io/badge/HTML5-%23e34f26.svg?logo=html5&logoColor=white&style=flat" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS3-%231572b6.svg?logo=css3&logoColor=white&style=flat" alt="CSS3" />
 <img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?logo=Vue.js&logoColor=white&style=flat" alt="VUE" />
-<img src="https://img.shields.io/badge/Python-%233776AB.svg?logo=Python&logoColor=white&style=flat" alt="Python" />
-<img src="https://img.shields.io/badge/DL-%2314354c.svg?logo=DL&logoColor=white&style=flat" alt="Deep-Learning" />
-<img src="https://img.shields.io/badge/NLP-%23CB3837.svg?logo=NLP&logoColor=white&style=flat" alt="NLP" />
   
 <h3>工具</h3>
 
