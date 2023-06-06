@@ -1,8 +1,10 @@
 <h2> < Hello World, I'm <a href="zhanyuhaocs@qq.com" target="_blank"> Zhanyuhao</a> /></h2>
 
-- I am a graduate student in the second year of Nanchang University. At present, I am practicing in the Thinvent Group, and my research direction is natural language processing. At the same time, I am very interested in software development, especially Java programming language, and I am currently in a job hunting state. 
+- I am a graduate student in the second year of Nanchang University. At present, I am practicing in the Thinvent Group, and my research direction is natural language processing. At the same time, I am very interested in software development. 
 - 📩 Feel free to reach me at zhanyuhaocs@qq.com.
 
+Programming changes the world！🤝
+ 
 <h2>🛠️ Technologies & Tools</h2>
 <h3>常用技术栈</h3>
  
